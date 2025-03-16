@@ -4,7 +4,7 @@
 
 ## Демо
 
-Проект доступен по адресу: https://marina4427.github.io/portfolio/
+Проект доступен по адресу: https://marina4427.github.io/portfolio
 
 ## Особенности
 
