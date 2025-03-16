@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c573ca80.css",
+    "main.js": "/portfolio/static/js/main.ccbe6fa9.js",
+    "static/media/02-big.jpg": "/portfolio/static/media/02-big.95bb97db43a3734c5ba6.jpg",
+    "static/media/01-big.jpg": "/portfolio/static/media/01-big.523dd87704c2ef4406bf.jpg",
+    "static/media/04-big.jpg": "/portfolio/static/media/04-big.5a4c95485114b2181da2.jpg",
+    "static/media/03-big.jpg": "/portfolio/static/media/03-big.27444b5b7a0a4d5372ba.jpg",
+    "static/media/05-big.jpg": "/portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
+    "static/media/01.jpg": "/portfolio/static/media/01.84eb04abf184f076e1fd.jpg",
+    "static/media/06-big.jpg": "/portfolio/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/02.jpg": "/portfolio/static/media/02.cd72a4b1eb85356d63b3.jpg",
+    "static/media/03.jpg": "/portfolio/static/media/03.90805e55d0399cc22dad.jpg",
+    "static/media/04.jpg": "/portfolio/static/media/04.e7653a8092450fb7b623.jpg",
+    "static/media/05.jpg": "/portfolio/static/media/05.497e1d12eb46a0b52271.jpg",
+    "static/media/06.jpg": "/portfolio/static/media/06.86ff2b3c4326d053ac65.jpg",
+    "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c573ca80.css.map": "/portfolio/static/css/main.c573ca80.css.map",
+    "main.ccbe6fa9.js.map": "/portfolio/static/js/main.ccbe6fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c573ca80.css",
+    "static/js/main.ccbe6fa9.js"
+  ]
+}
