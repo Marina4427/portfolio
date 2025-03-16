@@ -1,0 +1,13 @@
+.projects {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+
+@media (max-width: 620px) {
+  .project__title {
+    font-size: 22px;
+  }
+}
